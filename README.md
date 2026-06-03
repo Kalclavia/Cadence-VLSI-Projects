@@ -19,7 +19,7 @@ The central design path is an 8-bit pipelined adder developed from first princip
 
 ## Repository Contents
 
-| Lab | Topic | What to Review |
+| Lab | Topic | Overview |
 | --- | --- | --- |
 | 1 | 8-bit adder and component schematics | Full adder, 4-bit adder, register, 8-bit pipelined adder schematics, symbols, testbenches, and simulation captures |
 | 2 | Gate silicon layouts | CMOS layouts for inverter, NAND2, and XOR2 primitive cells |
@@ -48,7 +48,7 @@ For a quick technical review, start with:
 
 1. `1 - 8-bit Adder & Components Schematics/` for the top-level design intent and early simulation evidence.
 2. `4 - 1-bit Adder, Silicon Layout & Simulation/` for detailed waveform, delay, power, and optimization captures.
-3. `7 - Cruise Control ASIC Design, Placing & Routing Die Layout/` for ASIC implementation artifacts such as timing, constraints, area, and layout.
+3. `7 - Cruise Control ASIC Design, Placing & Routing Die Layout/` for a separate ASIC implementation project, including artifacts for timing, constraints, area, and layout.
 4. `8 - 8-bit Adder, Silicon Layout, Simulation, & Optimization/` for the final adder-focused implementation report.
 5. `9 - 4-bit Adder, Optimization using Logical Effort (Power vs. Die Area Tradeoff)/` for design tradeoff analysis.
 
