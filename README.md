@@ -1,6 +1,6 @@
 # Cadence VLSI Projects
 
-This repository documents a nine-lab Cadence VLSI design sequence focused on building, simulating, laying out, and optimizing digital CMOS circuits. The work progresses from transistor-level standard cells to hierarchical arithmetic blocks, ending with an 8-bit pipelined adder design and related ASIC implementation exercises.
+This repository documents a nine-lab VLSI design sequence completed in Cadence, progressing from transistor-level standard-cell design through a full 8-bit pipelined adder layout, simulation, and optimization workflow.
 
 Each lab folder contains the original report in PDF/DOCX form, with supporting screenshots, waveform captures, timing reports, layout images, netlists, or implementation artifacts where available.
 
