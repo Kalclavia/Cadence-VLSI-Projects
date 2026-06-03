@@ -1,4 +1,4 @@
-# Cadence VLSI Projects
+# VLSI Project: 8-bit Pipelined Adder Design in Cadence
 
 This repository documents a nine-lab VLSI design sequence completed in Cadence, progressing from transistor-level standard-cell design through a full 8-bit pipelined adder layout, simulation, and optimization workflow.
 
